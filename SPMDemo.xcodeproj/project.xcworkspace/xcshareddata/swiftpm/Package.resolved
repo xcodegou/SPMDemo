@@ -1,0 +1,78 @@
+{
+  "originHash" : "1fc9aaa2fd352ff53ee1bea9b2db11d00efb8384b0339990bac102b4a5d49a3e",
+  "pins" : [
+    {
+      "identity" : "brotli",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xcodegou/Brotli.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "63d97af69fdc0b505c908a9137c5b0210facf9eb"
+      }
+    },
+    {
+      "identity" : "mjrefresh",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CoderMJLee/MJRefresh.git",
+      "state" : {
+        "revision" : "535d39c86e592d73f8b8e75f9bf1eda62ca4a4ce",
+        "version" : "3.7.9"
+      }
+    },
+    {
+      "identity" : "mqqcomponents",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xcodegou/MQQComponents.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e1d113acd2d784abad25fc0a22711da8d1626cb1"
+      }
+    },
+    {
+      "identity" : "promiseobjc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xcodegou/PromiseObjC.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1b2f0c6554eedc2625d747cb6f96c9375642e50a"
+      }
+    },
+    {
+      "identity" : "socketrocket",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xcodegou/SocketRocket.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "233d821d567ebc2815692e849a3665697106ad80"
+      }
+    },
+    {
+      "identity" : "tars",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xcodegou/Tars.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e5a9ff848bff768602ecd97c052ff501c3710c87"
+      }
+    },
+    {
+      "identity" : "tcmppsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xcodegou/TCMPPSDK.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "82edb2bdd3e0920980e38ae5f9ced458a3529c21"
+      }
+    },
+    {
+      "identity" : "ziparchive",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ZipArchive/ZipArchive.git",
+      "state" : {
+        "revision" : "38e0ce0598e06b034271f296a8e15b149c91aa19",
+        "version" : "2.4.3"
+      }
+    }
+  ],
+  "version" : 3
+}

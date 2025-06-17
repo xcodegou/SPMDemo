@@ -1,0 +1,17 @@
+{
+  "customId": "T09667ZL9351718GAEX",
+  "productId": "100390168",
+  "packageName": "",
+  "bundleId": "com.first.focus",
+  "material": "01bY+BSSnSgd1+jb+7zyPAG2nFEfzObH/SCXPorM9MomMMShTKxiQ5qOaPITHSP5dCD4vNhjoKow8D48f37sjd4HQBFB6wlsq4Og+E5hrYpfdQB4FpThcxGUZElPaaDBaysjlZhjFnRmROdmcbV/YJpUWpxSew8kG3h11UeVqeMYLV9sDt4Q4s4bGfKYfTUhsvlDkKAVRCUwCpHq1HHvUkMRelkmcckfua3c8cvXmhaSxPxwWwpCZoymBk2O+m/2ausPrKfFe3RVUeeqNjqIibFPN+18xbw54GOczOy3dDj9ZSYBvT1sYWPGdmmb9lwSy9H3t9wyAhZxGyYVBC20qKvbe6RKIUkOhCY2UD37fdaftUu5RHCjO6yUCfL+maUKXZh6j3clSyDov7uA2YTNqafP0BaX4zFVYQupWFrePXL8zdY2PBEDRFpHfj56RP+V+Ge6ZaVzlWuj9zpxlH+5i8nF9G0E1Gc9ZiTamA4M5mM1Bi3LXboPxWlmDBU63jziK6oBmR4gnCASQDXKM91vpx8jnGZs1tNOpO6pe/HxcqsL6l/06i+bq9zFoe5ysK66sr9ipmkQpwN4vY5/iHG6C9uQ==5d9ef845301171fa",
+  "shark": {
+    "httpUrl": "https://api-sg.tcmpp.com/",
+    "tcpHost": "MAZUTCPDOMAN",
+    "tcpPort": 0,
+    "appKey": "app-ylk2jebx9q",
+    "symEnc": 1,
+    "asymEnc": 0
+  },
+  "feedback": "https://feedback-sg.tcmpp.com?region=ap-singapore&env=prod",
+  "qapmUrl": "https://qapm-app-sg.tcmpp.com"
+}
